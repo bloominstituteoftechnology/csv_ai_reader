@@ -1,4 +1,7 @@
 langchain_community
-lanchain_experimental
+langchain_experimental
 langchain_openai
 python-dotenv
+pandas
+tabulate
+bs4
